@@ -12,3 +12,12 @@ Here is the screenshot of the project.
  </ol>
  <h1> Video tutorial for the same in Hindi</h1>
  <a href="https://youtu.be/RxPF47orKzo"> Video Tutorial</a>
+
+<h3>To get a project up and running:</h3>
+<ol>
+  <li> Unzip the project you downloaded.</li>
+  <li> Open the unzipped directory in you code editor.</li>
+  <li> Run npm install to install all the dependencies</li>
+  <li>Run npm start to start the app</li>
+ </ol>
+ 
