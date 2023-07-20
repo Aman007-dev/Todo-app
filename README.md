@@ -10,8 +10,6 @@ Here is the screenshot of the project.
   <li> Add Todo by pressing Enter key</li>
   <li> Delete Todo</li>
  </ol>
- <h1> Video tutorial for the same in Hindi</h1>
- <a href="https://youtu.be/RxPF47orKzo"> Video Tutorial</a>
 
 <h3>To get a project up and running:</h3>
 <ol>
